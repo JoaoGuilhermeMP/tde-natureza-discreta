@@ -49,4 +49,4 @@ def operations(arquivoTxt):
         print(result)
 
 # Put the name of the file you want to read here 
-operations('arquivo01.txt')
+operations('arquivo02.txt')

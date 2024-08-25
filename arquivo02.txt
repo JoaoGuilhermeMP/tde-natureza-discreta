@@ -1,0 +1,16 @@
+5
+U
+07, 04, 17, 09
+19, 96, 42, 12
+U
+18, 47, 6, 29
+Luana, Juliano, Valentina, Lucas 
+I
+1, 14, 5, João, Luana
+14, Luana, Gustavo
+D
+1, Cake, MCDonalds, 14
+1, R, G, 14 
+C
+20, 4, PUC, R
+1, B, Harvard, B, 3
