@@ -46,9 +46,8 @@ def operationsConjunct(arquivoTxt):
         elif operation == 'C':
             result = cartesianProduct(conjunct01, conjunct02)
         
-        if operation == 'I' and not result:
-            resultConjuntos = '∅'
-        elif operation != 'C':
+        
+        if operation != 'C':
             resultConjuntos = ', '.join(result)
         else:
             resultConjuntos = ', '.join(str(elemento) for elemento in(sorted(result))) 
