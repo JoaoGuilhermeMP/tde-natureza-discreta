@@ -42,7 +42,7 @@ def operations(arquivoTxt):
         
         results.append(f"{nameGroup}: Conjunct 1 {{{', '.join(conjunct01)}}}, Conjunct 2 {{{', '.join(conjunct02)}}}. Result: {{{resultConjuntos}}}")
 
-        init += 3
+        init = init + 3
 
 # this will show in terminal all the results asked in .txt file one by one 
     for result in results:
