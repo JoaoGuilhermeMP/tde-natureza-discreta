@@ -60,5 +60,5 @@ def operationsConjunct(arquivoTxt):
     for result in results:
         print(result)
 
-# Put the name of the file you want to read here 
+# Put the file here
 operationsConjunct('file01.txt')
