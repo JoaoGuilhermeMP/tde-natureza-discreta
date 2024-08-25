@@ -19,7 +19,7 @@ def operations(arquivoTxt):
         conjunct01 = set(lines[init + 1].strip().split(', '))
         conjunct02 = set(lines[init + 2].strip().split(', '))
 
-# this will check the letter in the .txt file and will do the right operation        
+# this will check the letter in the .txt file and will do the expected operation with the conjuncts in the .txt file       
         if operation == 'U':
             result = conjunct01.union(conjunct02)
             nameGroup = "Union"
