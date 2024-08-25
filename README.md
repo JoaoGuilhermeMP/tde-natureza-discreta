@@ -6,7 +6,11 @@
 
  Installation:
  clone this repository:
+ 
  git clone https://github.com/EoRedneVida/tde-natureza-discreta.git
+ 
  upload the files you want to run in the code and make sure to put the name in the last line of the code
+ 
  contact me if you have any questions about this program
+ 
  Thank You for your attention and enjoy the program
