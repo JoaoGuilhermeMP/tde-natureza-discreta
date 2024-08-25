@@ -5,7 +5,7 @@
 
 # this function makes everything in this program 
 def operations(arquivoTxt): 
-    with open(arquivoTxt, 'r') as arquivo: # first the program will open and read the file .txt and will storage the data into the variable lines
+    with open(arquivoTxt, 'r') as arquivo: # first the program will open and read the file .txt and will storage the data and how many operations this file has into the variable lines
         lines = arquivo.readlines()
 
 # now the program will initialize the global variables of the function
